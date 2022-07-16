@@ -1,1 +1,1 @@
-# school-manager
+# School Manager Project 
